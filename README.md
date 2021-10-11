@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @troyQQngu
+- 👋 Hi, I’m Troy Tao @troyQQngu
 - 👀 I’m interested in applied math especially numerical analysis, statistics, modeling.
 - 🌱 I’m currently learning machine learning/ data science, electric guitar.
 - 💞️ I’m looking to collaborate on machine learning/ data science projects
